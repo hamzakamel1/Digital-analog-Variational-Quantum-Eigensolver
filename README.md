@@ -25,12 +25,8 @@ Minimize the  noise by Reducing the number of  multiple gates by including the H
 This method combine between digital process with single-qubit with analog blocks performed by the time evolution of the Hamiltonien interaction that better represent the natural interaction among the qubits and inherent this interaction to the quantum processor. To simulate our problem we need two blocks :
 - The digital blocks will be single-qubit rotations.
 - The analog blocks perform the Quantum computation by processing entangling operation using analog evolution under a given Coupling Hamiltonian:
- 
 
-
-
-
-
+![image22](https://user-images.githubusercontent.com/86167253/186287949-5e0a0ccf-34dc-409c-9dba-782b80f3c4d3.png)
 
 
 
