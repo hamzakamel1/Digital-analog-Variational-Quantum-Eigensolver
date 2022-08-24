@@ -1,4 +1,21 @@
+# Womenium Quantum Computing Hackathon 
 # Digital-analog-Variational-Quantum-Eigensolver
+
+
+![quantum-computing-1920](https://user-images.githubusercontent.com/75124259/186297874-8ce46322-8a2e-4157-ac24-2a4011147b4e.jpeg)
+
+
+
+## Quantumate Team Members :
+
+Afaf EL Kalai || Hinde Adnani  ||  Hamza Kamel || Hannan Mousavi  ||  Khadija ECH-CHALLAOUY  ||  Zainab Bouchbouk 
+
+
+# The Digital-analog-Variational-Quantum-Eigensolver by IQM 
+
+<img width="1177" alt="Screen Shot 2022-08-24 at 3 44 28 AM" src="https://user-images.githubusercontent.com/75124259/186299225-11d7fb58-e0b2-412f-893f-e27f8e46db0c.png">
+
+
 
 ### What is DAQC (Digital-analog-Variational-Quantum-Eigensolver)?
 
