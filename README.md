@@ -10,3 +10,30 @@ Digital quantum computing paradigm offers highly-desirable features such as univ
 
 # Comparaison between Digital Quantum Computation and Analog-Quantum Computation
 
+Quantum Chemistry Simulation in Quantum Computer is one of the important application of Quantum information which aims to determine the properties of  molecules. It takes advantage of the main features of quantum mechanics (entanglement and superposition) to get exponential speedups over their classical counterpart especially when we have **N** atoms, the classical simulation take a lot of time, it can be many years. One of the Quantum Simulation Methods are Digital Analog Variationnel Eigensolver. To reach this method in a real problem ,First of all we need to figure out the difference between Digital Quantum Computation and Digital Analog Quantum Computation. 
+
+## Digital Quantum Computation :
+It is the most extended Quantum Computational paradigm which attending to the building blocks: 
+-to change the state of single qubit ,it apply Digital pulses to one qbit 
+-to create entanglement and superposition ,it apply Digital pulses simultaneousely to two qubit.
+ **The Problem:** 
+As the depth of the algorithm increase , the compatutional resources needed to implement it increase. Experimentally: Single-qubit gates are efficient to perform and present almost no noise, but two- qubit gates present significant noise rates that accumulate along the process .
+**The Solution:**
+Minimize the  noise by Reducing the number of  multiple gates by including the Hamiltonien interaction processing as a resource of entanglement instead a Controlled X Not  gates (cx_gate). And this is the advantage for using Digital-analog Quantum Computing.
+
+## Digital-analog Quantum Computing:
+This method combine between digital process with single-qubit with analog blocks performed by the time evolution of the Hamiltonien interaction that better represent the natural interaction among the qubits and inherent this interaction to the quantum processor. To simulate our problem we need two blocks :
+- The digital blocks will be single-qubit rotations.
+- The analog blocks perform the Quantum computation by processing entangling operation using analog evolution under a given Coupling Hamiltonian:
+ 
+
+
+
+
+
+
+
+
+
+
+
